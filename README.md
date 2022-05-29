@@ -36,6 +36,8 @@ _**📌NOT:**_ Tinkercad için önceden hesabınız yoksa yukarıdaki linke tık
 <img src= "https://user-images.githubusercontent.com/98099024/170889192-494766ad-0ab7-48f1-ac65-2eb683b15240.PNG" width="500" height="300">
 
 
+Projeye ait Labview arayüz tasarımı aşağıdaki gibidir:
+
 
 
 
