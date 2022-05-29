@@ -37,7 +37,7 @@ Projeye ait LabVIEW arayüz tasarımı aşağıdaki gibidir:
 
 <img src="https://user-images.githubusercontent.com/98099024/170889604-82960830-81f0-4192-b7d1-4bac89c6079d.PNG" width="400" height="500">
 
-⚡**PROJEYE AİT FARKLI DURUMLARDA LABVIEW ARAYÜZÜ**
+### ⚡***PROJEYE AİT FARKLI DURUMLARDA LABVIEW ARAYÜZÜ***
 
 1️⃣**1.DURUM**: Mesafe 15 santimetreden büyük olduğu durumdur. Ortamda herhangi bir olumsuz durum olmadığı için yeşil led yanmalıdır. 1. duruma ait görsel aşağıdaki gibidir: 
 
