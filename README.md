@@ -26,8 +26,7 @@
 
 
 **Proje Çalışma Şekli:** ✔Yem deposuna ait kapının mesafe sensörüne 15 santimetreden az kala sistem devreye girer. 
-Kırmızı led sensörü ve buzzer aktif duruma geçer. Ayrıca sistem önceden belirtilmiş olan mail hesabına bir uyarı mesajı gönderir. Herhangi bir olumsuz durum gerçekleşmediği takdirde ise yeşil led aktif olarak yanar.  Böylece anlık olarak sistem güç kesilmedikçe aktif durumdadır.
-
+Kırmızı led sensörü ve buzzer aktif duruma geçer. Ayrıca sistem önceden belirtilmiş olan mail hesabına bir uyarı mesajı gönderir. Herhangi bir olumsuz durum gerçekleşmediği takdirde ise yeşil led aktif olarak yanar.  Böylece anlık olarak sistem güç kesilmedikçe aktif durumdadır. Aynı zamanda LabVIEW arayüzünde ultrasonik mesafe sensöründen gelen mesafe bilgileri senkron bir şekilde gözükmektedir.
 
 -Tasarlamış olduğum projeme ait elektronik komponentlerin devre şemasına [devreSemasi](https://www.tinkercad.com/things/68N7dYEIkeI-olcmeenstrumantassyonproje/editel) linkinden ulaşabilirsiniz.
 
@@ -39,6 +38,10 @@ _**📌NOT:**_ Tinkercad için önceden hesabınız yoksa yukarıdaki linke tık
 Projeye ait LabVIEW arayüz tasarımı aşağıdaki gibidir:
 
 <img src="https://user-images.githubusercontent.com/98099024/170889604-82960830-81f0-4192-b7d1-4bac89c6079d.PNG" width="400" height="500">
+
+**PROJEYE AİT FARKLI DURUMLARDA LABVIEW ARAYÜZÜ**
+
+**1.DURUM**: Mesafe 15 santimetreden büyük olduğu durumdur. Ortamda herhangi bir olumsuz durum olmadığı için yeşil led yanmalıdır. 1. duruma ait görsel aşağıdaki gibidir: 
 
 
 
