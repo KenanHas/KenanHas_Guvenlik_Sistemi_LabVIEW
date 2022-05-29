@@ -47,5 +47,5 @@ Projeye ait LabVIEW arayüz tasarımı aşağıdaki gibidir:
 
 **2.DURUM**: Mesafe 15 santimetreden küçük olduğu durumdur. Ortamda bir olumsuz durum gerçekleştiği için kırmızı uyarı ledi yanmalıdır. 2. duruma ait görsel aşağıdaki gibidir:
 
-<img src="https://user-images.githubusercontent.com/98099024/170890761-8a80e6ef-247b-4531-b778-e5300c35b989.PNG" width="400" height="500" >
+<img src="https://user-images.githubusercontent.com/98099024/170891043-8e1620c9-4365-42d9-9ef1-717a3ed5f80e.PNG" width="400" height="500" >
 
