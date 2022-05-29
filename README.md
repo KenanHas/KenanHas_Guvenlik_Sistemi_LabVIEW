@@ -12,10 +12,8 @@
 ⚡**Projede Kullanılan Programlar:** LabVIEW ve Arduino
 
 ⚡|**Projede Kullanılan Malzemeler**|
-|--|
-
-|ADET|MALZEME|
 |--|--|
+|ADET|MALZEME|
 |1|Arduino Uno|
 |1|HC-SR04 Ultrasonik Mesafe Sensörü|
 |2|LED|
