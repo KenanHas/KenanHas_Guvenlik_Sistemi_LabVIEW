@@ -30,6 +30,8 @@ Kırmızı led sensörü ve buzzer aktif duruma geçer. Ayrıca sistem önceden 
 
 
 -Tasarlamış olduğum projeme ait elektronik komponentlerin devre şemasına [devreSemasi](https://www.tinkercad.com/things/68N7dYEIkeI-olcmeenstrumantassyonproje/editel) linkinden ulaşabilirsiniz.
+NOT: Tinkercad için önceden hesabınız yoksa yukarıdaki linke tıklayarak devre şemasına hemen ulaşamayabilirsiniz. Bunun için aşağıda tasarlamış olduğum devre şemama ait görsele ulaşabilirsiniz.
+
 
 
 
