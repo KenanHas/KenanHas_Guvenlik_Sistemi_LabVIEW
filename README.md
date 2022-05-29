@@ -51,4 +51,4 @@ Projeye ait LabVIEW arayüz tasarımı aşağıdaki gibidir:
 
 2. durum sonucunda LabVIEW arayüz tasarımında belirtilen mail adresine giden mesaja ait görsel aşağıdaki gibidir:
 
-
+<img src="https://user-images.githubusercontent.com/98099024/170891192-f4be0864-2b56-4bc7-b549-c3268d630ced.PNG" width="400" height="250">
