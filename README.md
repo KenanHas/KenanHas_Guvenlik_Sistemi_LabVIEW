@@ -9,7 +9,7 @@
 
 **Proje Amacı:** Bir yem deposuna ait güvenlik sistemi oluşturma.
 
-**Projede Kullanılan Programlar:** Labview ve Arduino
+**Projede Kullanılan Programlar:** LabVIEW ve Arduino
 
 |**Projede Kullanılan Malzemeler**|
 |--|
@@ -36,8 +36,9 @@ _**📌NOT:**_ Tinkercad için önceden hesabınız yoksa yukarıdaki linke tık
 <img src= "https://user-images.githubusercontent.com/98099024/170889192-494766ad-0ab7-48f1-ac65-2eb683b15240.PNG" width="500" height="300">
 
 
-Projeye ait Labview arayüz tasarımı aşağıdaki gibidir:
+Projeye ait LabVIEW arayüz tasarımı aşağıdaki gibidir:
 
+<img src="https://user-images.githubusercontent.com/98099024/170889604-82960830-81f0-4192-b7d1-4bac89c6079d.PNG" width="400" height="500">
 
 
 
