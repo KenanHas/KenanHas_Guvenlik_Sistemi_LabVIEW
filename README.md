@@ -42,6 +42,9 @@ Projeye ait LabVIEW arayüz tasarımı aşağıdaki gibidir:
 1️⃣**1.DURUM**: Mesafe 15 santimetreden büyük olduğu durumdur. Ortamda herhangi bir olumsuz durum olmadığı için yeşil led yanmalıdır. 1. duruma ait görsel aşağıdaki gibidir: 
 
 <img src="https://user-images.githubusercontent.com/98099024/170890761-8a80e6ef-247b-4531-b778-e5300c35b989.PNG" width="400" height="500" >
+1. duruma ait breadboard üzerinde kurduğum devre aşağıdaki gibidir: 
+
+
 
 2️⃣**2.DURUM**: Mesafe 15 santimetreden küçük olduğu durumdur. Ortamda bir olumsuz durum gerçekleştiği için kırmızı uyarı ledi yanmalıdır. 2. duruma ait görsel aşağıdaki gibidir:
 
