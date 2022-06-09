@@ -1,11 +1,4 @@
 ### ♦♦LABVIEW VE ARDUINO İLE GÜVENLİK SİSTEMİ♦♦
-|AD|SOYAD|      
-|--|--|       
-|KENAN|HAS|
-
-|PROJE TESLİM TARİHİ|
-|--|
-|29.05.2022|
 
 ⚡**Proje Amacı:** Bir yem deposuna ait güvenlik sistemi oluşturma.
 
